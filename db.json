@@ -1,0 +1,11 @@
+{
+  "posts": [
+    {
+      "materia": "matematica II",
+      "profesor": "Juan Gomez",
+      "calificacion": "9",
+      "id": 1
+    }
+  ],
+  "json-server db.json --watch --port 4000": []
+}
